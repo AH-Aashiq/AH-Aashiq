@@ -14,8 +14,8 @@ Im passonate on my dream/work ✨ Self learner ✨ Dream to be a professonal pro
 - 🔭 I’m currently working on Front End Development.
 - 🌱 I’m currently learning JavaScripts.
 - 👯 I’m looking to collaborate on Facebook.
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ront End Development/OS.
+- 🤔 I’m looking for help with Eveythings.
+- 💬 Ask me about **Front End Development/OS**.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/alachi.asiek)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to riding bicycle and bike also.
