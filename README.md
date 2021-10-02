@@ -11,11 +11,11 @@ Im passonate on my dream/work ✨ Self learner ✨ Dream to be a professonal pro
 <img src="https://github-profile-trophy.vercel.app/?username=AH-Aashiq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy">
 </p>
 
-- 🔭 I’m currently working on Front End Development.
-- 🌱 I’m currently learning JavaScripts.
+- 🔭 I’m currently working on Python(django).
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Facebook.
 - 🤔 I’m looking for help with Eveythings.
-- 💬 Ask me about **Front End Development/OS**.
+- 💬 Ask me about **Backend(webdev)/OS**.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/alachi.asiek)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to riding bicycle and bike also.
