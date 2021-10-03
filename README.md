@@ -1,8 +1,8 @@
 <h1 align="center">
-Hello there 👋 I'm Ariful Haque Aashiq 😄
+Hello there 👋 I'm Aashiq 😄
 </h1>
 <h3 align="center">
-Im passonate on my dream/work ✨ Self learner ✨ Dream to be a professonal programmer(web) ✨
+Im passonate on my dream/work ✨ Self learner ✨ Dream to be a professonal programmer(web dev/tools maker) ✨
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=AH-Aasiq&label=Profile%20views&color=0e75b6&style=flat">							 
@@ -11,7 +11,7 @@ Im passonate on my dream/work ✨ Self learner ✨ Dream to be a professonal pro
 <img src="https://github-profile-trophy.vercel.app/?username=AH-Aashiq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy">
 </p>
 
-- 🔭 I’m currently working on Python(django).
+- 🔭 I’m currently working on Python(django/flask).
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Facebook.
 - 🤔 I’m looking for help with Eveythings.
