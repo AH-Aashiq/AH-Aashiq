@@ -7,10 +7,6 @@ Im passonate on my dream/work ✨ Self learner ✨ Dream to be a professonal pro
 
 <img src="https://komarev.com/ghpvc/?username=AH-Aasiq&label=Profile%20views&color=0e75b6&style=flat">							 
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AH-Aashiq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy">
-</p>
-
 - 🔭 I’m currently working on Python(django/flask).
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Facebook.
