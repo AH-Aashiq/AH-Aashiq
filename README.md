@@ -16,15 +16,9 @@ Im passonate on my dream/work ✨ Self learner ✨ Dream to be a professonal pro
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to riding bicycle and bike also.
 
-<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AH-Aashiq&show_icons=true&locale=en&layout=compact">
-</p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AH-Aashiq&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AH-Aashiq&&show_icons=true&title_color=blue&icon_color=bb2acf&text_color=000&bg_color=fff">
-</p>
-
-<p align="center">
-<img align="center" src="https://camo.githubusercontent.com/7ce1610b84d7ebb5911abf0e8875d955855b37590f9560c400bac3b375651f02/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d646d617275667361726b6572267468656d653d6461726b" alt="AH-Aashqi" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=AH-Aashiq&amp;theme=dark" style="max-width: 100%;">
- </p>
+![AH's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AH-Aashiq&show_icons=true&theme=radical)
