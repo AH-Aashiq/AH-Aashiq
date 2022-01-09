@@ -2,7 +2,7 @@
 Hello there 👋 I'm Aashiq 😄
 </h1>
 <h3 align="center">
-Im passonate on my dream/work ✨ Self learner ✨ Dream to be a professonal programmer(web dev/tools maker) ✨
+Problem Solver
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=AH-Aasiq&label=Profile%20views&color=0e75b6&style=flat">							 
