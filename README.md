@@ -1,7 +1,7 @@
 <h1 align="center">
-Hello there 👋 I'm Aashiq 😄
+cout<<"Hello there 👋 I'm Aashiq 😄\n"
 </h1>
-<h3 align="center">
+<h1 align="center">
 Problem Solver
 </h3>
 
