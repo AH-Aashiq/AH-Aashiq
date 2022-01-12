@@ -5,7 +5,7 @@ cout<<"Hello there 👋 I'm Aashiq 😄\n"
 Problem Solver
 </h3>
 
-<img src="https://komarev.com/ghpvc/?username=AH-Aasiq&label=Profile%20views&color=0e75b6&style=flat">							 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=AH-Aasiq&label=Profile%20views&color=0e75b6&style=flat"></p>							 
 
 - 🔭 I’m currently working on Python(django/flask).
 - 🌱 I’m currently learning Python.
