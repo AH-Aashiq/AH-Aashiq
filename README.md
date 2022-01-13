@@ -1,5 +1,12 @@
-<h1 align="center">
-cout<<"Hello there 👋 I'm Aashiq 😄\n"
+<h1>
+ 
+#include <iostream>
+using namespace std;
+
+int main() { <br>
+  cout<<"Hello there 👋 I'm Aashiq 😄\n" <br>
+  return 0;<br>
+}
 </h1>
 <h1 align="center">
 Problem Solver
