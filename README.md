@@ -1,11 +1,11 @@
 <h1>
  
-#include <iostream>
-using namespace std;
+#include &lt;iostream&gt;<br>
+using namespace std;<br>
 
-int main() { <br>
-  cout<<"Hello there 👋 I'm Aashiq 😄\n" <br>
-  return 0;<br>
+int main(void)<br> { <br>
+  &nbsp;&nbsp;&nbsp;cout<<"Hello there 👋 I'm Aashiq 😄\n"; <br>
+  &nbsp;&nbsp;&nbsp;return 0;<br>
 }
 </h1>
 <h1 align="center">
