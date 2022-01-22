@@ -9,7 +9,7 @@ int main(void)<br> { <br>
 }
 </h1>
 <h1 align="center">
-Problem Solver
+Problem Solver.
 </h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AH-Aasiq&label=Profile%20views&color=0e75b6&style=flat"></p>							 
