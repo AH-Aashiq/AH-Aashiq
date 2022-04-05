@@ -26,7 +26,7 @@ PROBLEM SOLVER
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to riding bicycle and bike also.
 -->
-<div align = " center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AH-Aashiq&show_icons=true&locale=en&layout=compact">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AH-Aashiq&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
